@@ -4,6 +4,10 @@ A complete end-to-end project for exploring genetic variant risk using **clinica
 
 The project was developed **from scratch as a data-to-application pipeline**. Raw genomic and clinical annotation sources were used as inputs, while the data cleaning, feature engineering, dataset construction, machine-learning workflow, evaluation, and application prototype were developed as part of this project.
 
+## 🚀 Live Prototype
+
+[Open the live prototype](https://priya-codes27.github.io/Genetic-Risk-Prediction-Using-ML-and-DL/)
+
 ---
 
 ## Project Overview
