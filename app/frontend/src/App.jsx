@@ -208,7 +208,7 @@ function parseCsv(text) {
 }
 
 async function loadUiData() {
-  const datasetUrl = '/data/ui/phase2_ui_dataset.csv';
+  const datasetUrl = `${import.meta.env.BASE_URL}data/ui/phase2_ui_dataset.csv`;
 
   const response = await fetch(
     `${datasetUrl}?v=${Date.now()}`,
