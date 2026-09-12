@@ -261,9 +261,9 @@ The final tuned **HistGradientBoosting** model achieved:
 | ROC-AUC   | 0.9856 |
 | PR-AUC    | 0.9192 |
 
-The project also includes an MLP-based model and the corresponding trained model artifacts.
+The project also includes an MLP-based modeling workflow. Trained model artifacts and large evaluation outputs are kept outside the Git repository to keep the repository lightweight.
 
-The repository contains the trained models and evaluation figures used during the final analysis.
+The trained models and large evaluation outputs used during the final analysis are maintained locally and are not included in the Git repository.
 
 ---
 
