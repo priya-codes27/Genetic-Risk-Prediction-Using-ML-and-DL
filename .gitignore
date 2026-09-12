@@ -1,0 +1,74 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ==============================
+# Virtual environments
+# ==============================
+.venv/
+.venv-dl/
+venv/
+env/
+
+# ==============================
+# Environment / secrets
+# ==============================
+.env
+.env.*
+
+# ==============================
+# Node / React
+# ==============================
+node_modules/
+dist/
+
+# ==============================
+# Jupyter
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# OS / Editor
+# ==============================
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ==============================
+# Raw genomic data
+# ==============================
+data/raw/
+
+# ==============================
+# Research datasets / ML outputs
+# ==============================
+data/phase1/
+data/phase2/
+models/
+results/
+
+# ==============================
+# Temporary / generated files
+# ==============================
+*.tmp
+*.log
+
+# ==============================
+# Python tooling
+# ==============================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==============================
+# Prototype UI data kept locally
+# ==============================
+data/ui/
+
+# Frontend prototype data
+!app/frontend/public/data/
+!app/frontend/public/data/ui/
+!app/frontend/public/data/ui/phase2_ui_dataset.csv
