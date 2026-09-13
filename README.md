@@ -8,6 +8,10 @@ The project was developed **from scratch as a data-to-application pipeline**. Ra
 
 [Open the live prototype](https://priya-codes27.github.io/Genetic-Risk-Prediction-Using-ML-and-DL/)
 
+## 🎥 Project Demonstration
+
+[Watch the Project Demonstration Video](https://drive.google.com/file/d/1UxUuOQ1K9Qf_2gwcjfwccowy34_Tjee-/view?usp=sharing)
+
 ---
 
 ## Project Overview
